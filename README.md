@@ -14,7 +14,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Lenguajes de Programación
 
 <p align="left"> 
   &emsp; 
